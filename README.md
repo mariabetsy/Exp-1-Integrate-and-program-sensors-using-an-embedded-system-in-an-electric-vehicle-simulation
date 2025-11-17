@@ -35,9 +35,10 @@ To integrate and program temperature and accelerometer sensors in an embedded sy
 •	Print the final temperature and acceleration values.
  
 ## MATLAB CODE 
+<img width="915" height="752" alt="image" src="https://github.com/user-attachments/assets/4adecccd-75dc-4c02-a288-50a04c2cdff1" />
 
 ## OUTPUT
-
+<img width="749" height="678" alt="image" src="https://github.com/user-attachments/assets/775e962b-654f-4c0e-babf-14a5d600cd25" />
  
 ## RESULT
 •	The battery temperature and vehicle acceleration were successfully simulated.
